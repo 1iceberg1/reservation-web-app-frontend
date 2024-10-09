@@ -1,0 +1,20 @@
+{
+  "name": "Checkinspeedy",
+  "short_name": "Checkinspeedy",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "favicon/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

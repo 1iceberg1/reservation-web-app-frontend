@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xml:space="preserve" width="1098px" height="645px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 462.9 272.08"><script xmlns="" id="eppiocemhmnlbhjplcgkofciiegomcon"/><script xmlns=""/><script xmlns=""/>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#0D4176;stroke-width:7.03;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE;fill-opacity:0.000000}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 462.9,0 462.9,272.08 0,272.08 "/>
+  <g id="_3100172809552">
+   <ellipse class="fil1 str0" transform="matrix(1.07592 -0 0.24211 0.867109 231.448 136.042)" rx="54.34" ry="97.2"/>
+   <path class="fil1 str0" d="M227.72 75.64c20.08,8.05 39.71,32.05 47.63,60.4 2.97,10.62 3.95,20.64 3.19,29.43"/>
+  </g>
+ </g>
+</svg>

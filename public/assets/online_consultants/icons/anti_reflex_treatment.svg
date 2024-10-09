@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xodm="http://www.corel.com/coreldraw/odm/2003" xml:space="preserve" width="1098px" height="645px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" viewBox="0 0 447 262.74"><script xmlns="" id="eppiocemhmnlbhjplcgkofciiegomcon"/><script xmlns=""/><script xmlns=""/>
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#0D4176;stroke-width:6.78;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil1 {fill:none}
+    .fil0 {fill:#FEFEFE;fill-opacity:0.000000}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="0,0 447,0 447,262.74 0,262.74 "/>
+  <g id="_3100169291920">
+   <path class="fil1 str0" d="M181.66 90.32c13.05,-10.14 34.22,-14.7 58.29,-17.48 42.64,-4.56 79.76,7.85 84.69,43.83 4.93,35.98 -25.81,68.91 -68.45,73.73 -11.49,1.2 -22.79,-0.3 -33.2,-3.87"/>
+   <g>
+    <path class="fil1 str0" d="M166.79 74.25c0,37.64 8.13,46.04 44.96,46.04 -36.56,0 -44.96,8.39 -44.96,46.03 0,-37.64 -8.12,-46.03 -44.95,-46.03 36.83,0 44.95,-8.4 44.95,-46.04z"/>
+    <path class="fil1 str0" d="M204.81 134.11c0,20.31 4.6,24.92 24.37,24.92 -20.04,0 -24.37,4.6 -24.37,24.91 0,-20.31 -4.61,-24.91 -24.38,-24.91 19.77,0.27 24.38,-4.34 24.38,-24.92z"/>
+   </g>
+  </g>
+ </g>
+</svg>
